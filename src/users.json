@@ -1,0 +1,18 @@
+{
+  "admin@mergington.edu": {
+    "id": "admin@mergington.edu",
+    "name": "Teacher Admin",
+    "email": "admin@mergington.edu",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "is_verified": true
+  },
+  "student@mergington.edu": {
+    "id": "student@mergington.edu",
+    "name": "Student User",
+    "email": "student@mergington.edu",
+    "password_hash": "703b0a3d6ad75b649a28adde7d83c6251da457549263bc7ff45ec709b0a8448b",
+    "role": "student",
+    "is_verified": false
+  }
+}
